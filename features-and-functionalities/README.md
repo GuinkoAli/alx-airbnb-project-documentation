@@ -52,3 +52,28 @@ The backend system will power a full-featured rental marketplace platform simila
 - **Content Moderation**: Review and manage property listings
 - **Financial Oversight**: Monitor transactions and payouts
 - **Analytics**: Platform usage and performance metrics
+
+## Implementation Notes
+
+- All API endpoints will follow RESTful conventions
+- Database migrations will be version-controlled
+- Environment-specific configurations will be managed securely
+- Comprehensive documentation will be maintained for all APIs
+
+## Visual Diagram
+
+![Airbnb Clone Backend Features](features-and-functionalities.drawio.png)
+
+
+*The accompanying diagram provides a visual overview  of features and functionalities required for the Airbnb Clone backend implementation.*
+
+
+# Use Case Diagram
+
+This provides us with a use case diagram for the Airbnb Clone project, visualizing the interactions between users and the system.
+
+## Use Case Diagram Overview
+
+The use case diagram illustrates the main functionalities of the Airbnb Clone system and how different actors interact with these functionalities.
+
+![Airbnb Clone Use Case Diagram](Use_case_Diagram.drawio.png)
