@@ -66,14 +66,3 @@ The backend system will power a full-featured rental marketplace platform simila
 
 
 *The accompanying diagram provides a visual overview  of features and functionalities required for the Airbnb Clone backend implementation.*
-
-
-# Use Case Diagram
-
-This provides us with a use case diagram for the Airbnb Clone project, visualizing the interactions between users and the system.
-
-## Use Case Diagram Overview
-
-The use case diagram illustrates the main functionalities of the Airbnb Clone system and how different actors interact with these functionalities.
-
-![Airbnb Clone Use Case Diagram](Use_case_Diagram.drawio.png)
